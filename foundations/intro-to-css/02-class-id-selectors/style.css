@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.red-box {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.red-box.bigger-red-box {
+    font-size: 24px;
+}
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-box {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
