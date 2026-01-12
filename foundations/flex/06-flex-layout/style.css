@@ -18,7 +18,7 @@ body {
 }
 
 .footer {
-  background-color: rgb(141, 137, 137);
+  background-color: rgb(201, 201, 201);
 }
 
 .left-links,
@@ -34,7 +34,6 @@ a {
 }
 
 .content {
-  border: 2px solid red;
   display: flex;
   flex-direction: column;
   justify-content: center;
